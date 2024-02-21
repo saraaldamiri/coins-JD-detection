@@ -34,4 +34,30 @@ We collect images for Jordanian currencies(0.05  0.1  0.25  0.5 1  5  10  20  50
 
 
 
+# Preprocessing steps:
+In all Models, we do the same general preprocessing steps that are:
+
+* Image resizing Below are the target sizes used for resizing images for different models:
+  
+| Model         | Target Size Used |
+|---------------|------------------|
+|V3             | 229              |
+|v12            | 224              |
+|v15            | 224              |
+
+* Data Augmentation.
+  We split the data into training and testing sets with an 80:20 ratio, then we apply data augmentation exclusively to the training data.
+
+  Data augmentation is a technique used to enhance the size and diversity of a training dataset by applying various transformations to existing images. This process is pivotal for 
+  improving the generalization and robustness of trained models, as it exposes them to a wider range of input variations.
+
+  We apply different data augmentation techniques to each model, and we will provide the specific augmentation process with each model."
+
+  * example of data augmentation
+    
+      ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20120724.png)
+
+
+
+
 
