@@ -61,12 +61,19 @@ In all Models, we do the same general preprocessing steps that are:
 
 ## v3 with map(77.4%)
   * Mixed annotation 
-  *  small dataset
+  * small dataset
 
      ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131522.png)
      ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131547.png)
      ![3](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131236.png)
      ![4](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131444.png)
+
+  * example of result
+    ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20135210.png)
+    ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20135143.png)
+
+
+## v12 with map(77.4%)
 
 
 
