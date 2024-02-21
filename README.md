@@ -77,6 +77,18 @@ In all Models, we do the same general preprocessing steps that are:
 
 ## v12 with map(77.4%)
 
+* only bounding boxes 
+* more dataset
+*
+     ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/1111.png)
+     ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/11.png)
+     ![3](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/1.png)
+     ![4](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/111.png)
+     ![5](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/11111.png)
+
+   
+
+
 
 
 
