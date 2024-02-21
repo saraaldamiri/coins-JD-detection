@@ -94,8 +94,22 @@ In all Models, we do the same general preprocessing steps that are:
 
      #### We noticed that the generalization of the model is better than V3, even though V3 achieves a higher map score. This is attributed to balancing the data more effectively."
 
+## Dataset Health Check
+ * With the help of Health Check in Roboflow, we noticed that the data was not balanced. To address this, we increased its balance and resized the images based on the findings from Health Check."
 
+* Before
+  
+     ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/3.png)
+     ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/33.png)
 
+# After
+
+     ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/333.png)
+     ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/3333.png)
+
+  
+  
+     
 
 
 
