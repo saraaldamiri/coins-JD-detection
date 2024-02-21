@@ -87,7 +87,7 @@ In all Models, we do the same general preprocessing steps that are:
      ![5](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/11111.png)
 
 
-** example of result
+* example of result
      ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/2.png)
      ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/22.png)
 
