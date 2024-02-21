@@ -13,5 +13,5 @@ We collect images for Jordanian currencies(0.05  0.1  0.25  0.5 1  5  10  20  50
    * capturing images using a camera or mobile device.
    * images from the internet
 
-![1](https://github.com/nooralsmadi/JordanAntiquities/blob/main/Data/001.jpg)
+![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-20%20115328.png)
 
