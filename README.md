@@ -105,7 +105,7 @@ In all Models, we do the same general preprocessing steps that are:
 # After
 
    ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/333.png)
-   ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/3333.png)
+   ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/3333%20-%20Copy.png)
 
   
   
