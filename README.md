@@ -107,6 +107,21 @@ In all Models, we do the same general preprocessing steps that are:
    ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/333.png)
    ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/3333%20-%20Copy.png)
 
+
+
+## v15 with map(70.4%)
+
+ * more dataset 
+ * different augmentation
+
+   ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/4.png)
+   ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/44.png)
+   ![3](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/444.png)
+   ![4](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/4444.png)
+   ![5](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/44444.png)
+   
+
+
   
   
      
