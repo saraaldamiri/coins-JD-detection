@@ -1,6 +1,6 @@
 # coins-JD-detection
 
-#Overview:
+# Overview:
 In this project, we develop a machine learning system designed to detect and accurately count coins. Our goal is to enhance efficiency, reduce errors, and streamline financial processes.
 
 # Objectives:
