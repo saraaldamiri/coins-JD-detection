@@ -88,10 +88,11 @@ In all Models, we do the same general preprocessing steps that are:
 
 
 * example of result
+  
      ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/2.png)
      ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/22.png)
 
-     ### We noticed that the generalization of the model is better than V3, even though V3 achieves a higher map score. This is attributed to balancing the data more effectively."
+     ##### We noticed that the generalization of the model is better than V3, even though V3 achieves a higher map score. This is attributed to balancing the data more effectively."
 
 
 
