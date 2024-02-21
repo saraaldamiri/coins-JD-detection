@@ -41,9 +41,9 @@ In all Models, we do the same general preprocessing steps that are:
   
 | Model         | Target Size Used |
 |---------------|------------------|
-|V3             | 229              |
-|v12            | 224              |
-|v15            | 224              |
+|V3             | 1024*1024        |
+|v12            | 640*412          |
+|v15            | 640*640          |
 
 * Data Augmentation.
   We split the data into training and testing sets with an 80:20 ratio, then we apply data augmentation exclusively to the training data.
@@ -56,6 +56,17 @@ In all Models, we do the same general preprocessing steps that are:
   * example of data augmentation
     
       ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20120724.png)
+
+# Modeling
+
+## v3 with map(77.4%)
+  * Mixed annotation 
+  *  small dataset
+
+     ![1](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131522.png)
+     ![2](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131547.png)
+     ![3](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131236.png)
+     ![4](https://github.com/saraaldamiri/coins-JD-detection/blob/main/data/Screenshot%202024-02-21%20131444.png)
 
 
 
